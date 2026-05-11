@@ -1,0 +1,51 @@
+/* ── Typography ── */
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ── Navbar ── */
+.navbar-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+}
+
+/* ── Hero / About page ── */
+#quarto-content .about-entity {
+  padding-top: 2.5rem;
+}
+
+.about-links .about-link {
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+/* ── Blog listing ── */
+.quarto-listing-default .list-item {
+  border-bottom: 1px solid var(--bs-border-color);
+  padding-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+/* ── Projects grid ── */
+.quarto-grid-item .card {
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.quarto-grid-item .card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* ── Footer ── */
+.nav-footer {
+  font-size: 0.85rem;
+  color: var(--bs-secondary);
+}

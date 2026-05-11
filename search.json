@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ernesto Bod",
+    "section": "",
+    "text": "Olá! Sou Ernesto Bod — [breve descrição profissional aqui].\nMeu trabalho envolve [área de atuação]. Estou interessado em [temas de interesse].\nNeste site você encontra meus projetos, publicações no blog e meu currículo."
+  },
+  {
+    "objectID": "posts/bem-vindo/index.html",
+    "href": "posts/bem-vindo/index.html",
+    "title": "Bem-vindo ao meu site!",
+    "section": "",
+    "text": "[Conteúdo do post de boas-vindas vai aqui.]"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Currículo",
+    "section": "",
+    "text": "Período\nGrau\nCurso\nInstituição\n\n\n\n\n[Ano]\n[Grau]\n[Curso]\n[Instituição]"
+  },
+  {
+    "objectID": "cv.html#formação-acadêmica",
+    "href": "cv.html#formação-acadêmica",
+    "title": "Currículo",
+    "section": "",
+    "text": "Período\nGrau\nCurso\nInstituição\n\n\n\n\n[Ano]\n[Grau]\n[Curso]\n[Instituição]"
+  },
+  {
+    "objectID": "cv.html#experiência-profissional",
+    "href": "cv.html#experiência-profissional",
+    "title": "Currículo",
+    "section": "Experiência Profissional",
+    "text": "Experiência Profissional\n\n\n\nPeríodo\nCargo\nOrganização\n\n\n\n\n[Período]\n[Cargo]\n[Organização]"
+  },
+  {
+    "objectID": "cv.html#habilidades",
+    "href": "cv.html#habilidades",
+    "title": "Currículo",
+    "section": "Habilidades",
+    "text": "Habilidades\n\n[Habilidade 1]\n[Habilidade 2]\n[Habilidade 3]"
+  },
+  {
+    "objectID": "cv.html#publicações",
+    "href": "cv.html#publicações",
+    "title": "Currículo",
+    "section": "Publicações",
+    "text": "Publicações\n[Liste suas publicações aqui.]"
+  },
+  {
+    "objectID": "cv.html#prêmios-e-reconhecimentos",
+    "href": "cv.html#prêmios-e-reconhecimentos",
+    "title": "Currículo",
+    "section": "Prêmios e Reconhecimentos",
+    "text": "Prêmios e Reconhecimentos\n[Liste prêmios e reconhecimentos aqui.]\n\nVersão atualizada em maio de 2026."
+  },
+  {
+    "objectID": "projects/projeto-exemplo/index.html",
+    "href": "projects/projeto-exemplo/index.html",
+    "title": "Projeto Exemplo",
+    "section": "",
+    "text": "[Descrição detalhada do projeto vai aqui.]"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Bem-vindo ao meu site!\n\n\n\ngeral\n\n\n\nPrimeira publicação do blog — apresentação do site e seus objetivos.\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Projeto Exemplo\n\n\n\nexemplo\n\n\n\nDescrição breve do projeto exemplo.\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "[Texto de apresentação detalhada aqui.]"
+  },
+  {
+    "objectID": "about.html#sobre-mim",
+    "href": "about.html#sobre-mim",
+    "title": "Sobre",
+    "section": "",
+    "text": "[Texto de apresentação detalhada aqui.]"
+  },
+  {
+    "objectID": "about.html#formação",
+    "href": "about.html#formação",
+    "title": "Sobre",
+    "section": "Formação",
+    "text": "Formação\n\n[Grau] em [Curso] — [Instituição], [Ano]"
+  },
+  {
+    "objectID": "about.html#experiência",
+    "href": "about.html#experiência",
+    "title": "Sobre",
+    "section": "Experiência",
+    "text": "Experiência\n\n[Cargo] — [Empresa/Organização], [Período]"
+  },
+  {
+    "objectID": "about.html#interesses",
+    "href": "about.html#interesses",
+    "title": "Sobre",
+    "section": "Interesses",
+    "text": "Interesses\n[Descreva seus interesses acadêmicos, profissionais ou pessoais aqui.]"
+  },
+  {
+    "objectID": "about.html#contato",
+    "href": "about.html#contato",
+    "title": "Sobre",
+    "section": "Contato",
+    "text": "Contato\nFique à vontade para entrar em contato via e-mail ou pelo GitHub."
+  }
+]
