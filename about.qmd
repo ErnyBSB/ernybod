@@ -2,21 +2,22 @@
 title: "Sobre"
 ---
 
-## Sobre mim
+## Apresentação
 
-[Texto de apresentação detalhada aqui.]
+Olá! Sou Erny Bo-D, trabalhei com TI, arquivos e atualmente com biblioteca. Este é um espaço onde compartilho alguns projetos, ideias e experiências. Fique à vontade para explorar e entrar em contato se tiver alguma dúvida ou quiser colaborar em algo interessante!
 
 ## Formação
 
-- **[Grau]** em [Curso] — [Instituição], [Ano]
+Sou Mestre e Doutor em Ciência da Informação pela Universidade de Brasília (UnB). Também tenho especialização em Machine Learning no Centro de Informática da UFPE e pós-Doc também pelo mesmo Centro.
+Sou graduado em Biblioteconomia pela Universidade de Brasília (Unb), bem como em Arquivologia pela mesma instituição.
 
 ## Experiência
 
-- **[Cargo]** — [Empresa/Organização], [Período]
+Atualmente, atuou como bibliotecário e pesquisador independente, principalmente em pontos comuns entre Ciência da Informação e Ciência da Computação (Machine Learning, Ciência de Dados, Linguagem Python e Modelos de IA). Anteriormente, trabalhei com TI,  Arquivos, Digitalizção e Preservação Digital.
 
 ## Interesses
 
-[Descreva seus interesses acadêmicos, profissionais ou pessoais aqui.]
+Estou particularmente interessado em explorar as interseções entre Ciência da Informação e Ciência da Computação, especialmente em áreas como Machine Learning, Ciência de Dados, Linguagem Python e Modelos de IA. Acredito que essas áreas têm um grande potencial para transformar a forma como lidamos com informações e dados.
 
 ## Contato
 
