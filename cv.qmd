@@ -2,31 +2,9 @@
 title: "Currículo"
 ---
 
-## Formação Acadêmica
+Meus dados profissionais e acadêmicos estão disponíveis no meu [Currículo Lattes](http://lattes.cnpq.br/0347322371078876).
 
-| Período | Grau | Curso | Instituição |
-|---------|------|-------|-------------|
-| [Ano]   | [Grau] | [Curso] | [Instituição] |
-
-## Experiência Profissional
-
-| Período | Cargo | Organização |
-|---------|-------|-------------|
-| [Período] | [Cargo] | [Organização] |
-
-## Habilidades
-
-- [Habilidade 1]
-- [Habilidade 2]
-- [Habilidade 3]
-
-## Publicações
-
-[Liste suas publicações aqui.]
-
-## Prêmios e Reconhecimentos
-
-[Liste prêmios e reconhecimentos aqui.]
+Os dados lá estão organizados em seções, como "Formação Acadêmica", "Experiência Profissional", "Produção Científica", entre outras. Para acessar o currículo completo, basta clicar no link acima. É a melhor forma de obter uma visão detalhada da minha trajetória acadêmica e profissional, incluindo minhas publicações, orientações, participações em eventos, entre outros aspectos relevantes da minha carreira.
 
 ---
 
