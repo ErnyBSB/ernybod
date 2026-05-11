@@ -1,8 +1,21 @@
 ---
-title: "Bem-vindo ao meu site!"
+title: "Bem-vindo ao Blog!"
 date: "2026-05-11"
 categories: [geral]
-description: "Primeira publicação do blog — apresentação do site e seus objetivos."
+description: "Apresentação do Blog."
 ---
 
-[Conteúdo do post de boas-vindas vai aqui.]
+Nesse espaço, compartilharei minhas experiências, aprendizados e insights sobre diversos temas relacionados à tecnologia, ciência de dados, programação e muito mais. Espero que este blog seja um lugar onde possamos aprender juntos, trocar ideias e crescer como profissionais e entusiastas da área.
+
+Fique à vontade para explorar os posts, deixar comentários e compartilhar suas próprias experiências. Estou ansioso para embarcar nessa jornada de aprendizado e crescimento com vocês!
+
+---
+title: "Bem-vindo ao Blog!"
+date: "2026-05-11"
+categories: [clustering]]
+description: "Novo artigo disponível."
+---
+
+Artigo publicado na revista Medium sobre a técnica de clustering aplicada a Acervos de Bibliotecas.
+
+
