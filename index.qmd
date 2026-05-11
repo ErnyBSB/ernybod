@@ -17,8 +17,12 @@ about:
       href: cv.qmd
 ---
 
-Olá! Sou **Ernesto Bod** — [breve descrição profissional aqui].
+Olá! Sou **Ernesto Bodê (Erny Bo-D)**.
 
-Meu trabalho envolve [área de atuação]. Estou interessado em [temas de interesse].
+Atualmente, estou trabalhando com pesquisas na confluência entre Ciência da Informação
+e Inteligência Artificial.
+Particularmente, estou pesquisando novas técnicas de Recuperação da Informação
+com modelos de IA. Repositórios de Documentos. E automatização de processos em
+Bibliotecas e Arquivos.
 
 Neste site você encontra meus [projetos](projects.qmd), [publicações no blog](blog.qmd) e meu [currículo](cv.qmd).
