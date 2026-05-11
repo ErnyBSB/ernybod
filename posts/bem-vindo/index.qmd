@@ -9,13 +9,6 @@ Nesse espaço, compartilharei minhas experiências, aprendizados e insights sobr
 
 Fique à vontade para explorar os posts, deixar comentários e compartilhar suas próprias experiências. Estou ansioso para embarcar nessa jornada de aprendizado e crescimento com vocês!
 
----
-title: "Bem-vindo ao Blog!"
-date: "2026-05-11"
-categories: [clustering]]
-description: "Novo artigo disponível."
----
 
-Artigo publicado na revista Medium sobre a técnica de clustering aplicada a Acervos de Bibliotecas.
 
 
