@@ -1,0 +1,10 @@
+---
+title: "Bem-vindo ao Blog!"
+date: "2026-05-11"
+categories: [artigos]
+description: "Novo Artigo."
+---
+
+Nesse espaço, compartilharei minhas experiências, aprendizados e insights sobre diversos temas relacionados à tecnologia, ciência de dados, programação e muito mais. Espero que este blog seja um lugar onde possamos aprender juntos, trocar ideias e crescer como profissionais e entusiastas da área.
+
+Fique à vontade para explorar os posts, deixar comentários e compartilhar suas próprias experiências. Estou ansioso para embarcar nessa jornada de aprendizado e crescimento com vocês!
