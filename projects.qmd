@@ -1,0 +1,11 @@
+---
+title: "Projetos"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  image-height: 180px
+  categories: true
+page-layout: full
+---

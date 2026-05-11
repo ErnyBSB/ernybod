@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ernesto Bod"
+  description: "Site pessoal de Ernesto Bod — projetos, publicações e blog."
+  favicon: assets/favicon.png
+  repo-url: https://github.com/ErnyBSB/ernybod
+  repo-actions: [edit, issue]
+
+  navbar:
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Início
+      - href: about.qmd
+        text: Sobre
+      - href: blog.qmd
+        text: Blog
+      - href: projects.qmd
+        text: Projetos
+    right:
+      - href: cv.qmd
+        text: Currículo
+      - icon: github
+        href: https://github.com/ErnyBSB
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:bod.ernesto@gmail.com
+        aria-label: E-mail
+
+  page-footer:
+    left: "© 2026 Ernesto Bod"
+    right:
+      - icon: github
+        href: https://github.com/ErnyBSB
+      - icon: envelope
+        href: mailto:bod.ernesto@gmail.com
+
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

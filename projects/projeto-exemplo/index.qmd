@@ -1,0 +1,9 @@
+---
+title: "Projeto Exemplo"
+date: "2026-05-11"
+categories: [exemplo]
+description: "Descrição breve do projeto exemplo."
+image: thumbnail.png
+---
+
+[Descrição detalhada do projeto vai aqui.]

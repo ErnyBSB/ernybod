@@ -1,0 +1,33 @@
+---
+title: "Currículo"
+---
+
+## Formação Acadêmica
+
+| Período | Grau | Curso | Instituição |
+|---------|------|-------|-------------|
+| [Ano]   | [Grau] | [Curso] | [Instituição] |
+
+## Experiência Profissional
+
+| Período | Cargo | Organização |
+|---------|-------|-------------|
+| [Período] | [Cargo] | [Organização] |
+
+## Habilidades
+
+- [Habilidade 1]
+- [Habilidade 2]
+- [Habilidade 3]
+
+## Publicações
+
+[Liste suas publicações aqui.]
+
+## Prêmios e Reconhecimentos
+
+[Liste prêmios e reconhecimentos aqui.]
+
+---
+
+*Versão atualizada em maio de 2026.*

@@ -1,0 +1,8 @@
+---
+title: "Bem-vindo ao meu site!"
+date: "2026-05-11"
+categories: [geral]
+description: "Primeira publicação do blog — apresentação do site e seus objetivos."
+---
+
+[Conteúdo do post de boas-vindas vai aqui.]

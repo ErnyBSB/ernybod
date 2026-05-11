@@ -1,0 +1,23 @@
+---
+title: "Sobre"
+---
+
+## Sobre mim
+
+[Texto de apresentação detalhada aqui.]
+
+## Formação
+
+- **[Grau]** em [Curso] — [Instituição], [Ano]
+
+## Experiência
+
+- **[Cargo]** — [Empresa/Organização], [Período]
+
+## Interesses
+
+[Descreva seus interesses acadêmicos, profissionais ou pessoais aqui.]
+
+## Contato
+
+Fique à vontade para entrar em contato via [e-mail](mailto:bod.ernesto@gmail.com) ou pelo [GitHub](https://github.com/ErnyBSB).

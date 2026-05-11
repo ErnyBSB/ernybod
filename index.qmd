@@ -1,0 +1,24 @@
+---
+title: "Ernesto Bod"
+image: assets/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/ErnyBSB
+    - icon: envelope
+      text: E-mail
+      href: mailto:bod.ernesto@gmail.com
+    - icon: file-earmark-text
+      text: Currículo
+      href: cv.qmd
+---
+
+Olá! Sou **Ernesto Bod** — [breve descrição profissional aqui].
+
+Meu trabalho envolve [área de atuação]. Estou interessado em [temas de interesse].
+
+Neste site você encontra meus [projetos](projects.qmd), [publicações no blog](blog.qmd) e meu [currículo](cv.qmd).
