@@ -1,14 +1,15 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/bem-vindo/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/projeto-exemplo/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/bem-vindo/index.html",
+      "/posts/bem-vindo/post2.html"
     ]
   }
 ]
