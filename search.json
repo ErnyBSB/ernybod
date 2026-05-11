@@ -18,42 +18,7 @@
     "href": "cv.html",
     "title": "Currículo",
     "section": "",
-    "text": "Período\nGrau\nCurso\nInstituição\n\n\n\n\n[Ano]\n[Grau]\n[Curso]\n[Instituição]"
-  },
-  {
-    "objectID": "cv.html#formação-acadêmica",
-    "href": "cv.html#formação-acadêmica",
-    "title": "Currículo",
-    "section": "",
-    "text": "Período\nGrau\nCurso\nInstituição\n\n\n\n\n[Ano]\n[Grau]\n[Curso]\n[Instituição]"
-  },
-  {
-    "objectID": "cv.html#experiência-profissional",
-    "href": "cv.html#experiência-profissional",
-    "title": "Currículo",
-    "section": "Experiência Profissional",
-    "text": "Experiência Profissional\n\n\n\nPeríodo\nCargo\nOrganização\n\n\n\n\n[Período]\n[Cargo]\n[Organização]"
-  },
-  {
-    "objectID": "cv.html#habilidades",
-    "href": "cv.html#habilidades",
-    "title": "Currículo",
-    "section": "Habilidades",
-    "text": "Habilidades\n\n[Habilidade 1]\n[Habilidade 2]\n[Habilidade 3]"
-  },
-  {
-    "objectID": "cv.html#publicações",
-    "href": "cv.html#publicações",
-    "title": "Currículo",
-    "section": "Publicações",
-    "text": "Publicações\n[Liste suas publicações aqui.]"
-  },
-  {
-    "objectID": "cv.html#prêmios-e-reconhecimentos",
-    "href": "cv.html#prêmios-e-reconhecimentos",
-    "title": "Currículo",
-    "section": "Prêmios e Reconhecimentos",
-    "text": "Prêmios e Reconhecimentos\n[Liste prêmios e reconhecimentos aqui.]\n\nVersão atualizada em maio de 2026."
+    "text": "Meus dados profissionais e acadêmicos estão disponíveis no meu Currículo Lattes.\nOs dados lá estão organizados em seções, como “Formação Acadêmica”, “Experiência Profissional”, “Produção Científica”, entre outras. Para acessar o currículo completo, basta clicar no link acima. É a melhor forma de obter uma visão detalhada da minha trajetória acadêmica e profissional, incluindo minhas publicações, orientações, participações em eventos, entre outros aspectos relevantes da minha carreira.\n\nVersão atualizada em maio de 2026."
   },
   {
     "objectID": "projects/projeto-exemplo/index.html",
@@ -102,7 +67,7 @@
     "href": "about.html#experiência",
     "title": "Sobre",
     "section": "Experiência",
-    "text": "Experiência\nAtualmente, atuou como bibliotecário e pesquisador independente, principalmente em pontos comuns entre Ciência da Informação e Ciência da Computação (Machine Learning, Ciência de Dados, Linguagem Python e Modelos de IA). Anteriormente, trabalhei com TI, Arquivos, Digitalizção e Preservação Digital."
+    "text": "Experiência\nAtualmente, atuo como bibliotecário e pesquisador independente, principalmente em pontos comuns entre Ciência da Informação e Ciência da Computação (Machine Learning, Ciência de Dados, Linguagem Python e Modelos de IA). Anteriormente, trabalhei com TI, Arquivos, Digitalização e Preservação Digital."
   },
   {
     "objectID": "about.html#interesses",
