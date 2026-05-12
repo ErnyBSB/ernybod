@@ -2,8 +2,12 @@
 title: "Repositório de Artigos sobre IA com Vector Search"
 date: "2026-05-11"
 categories: [vector search]
-description: "Repositório com busca baseada em vector search. Contém somente artigos sobre IA. Repositório construído a partir da da plataforma DSpace (8), utilizando técnicas de vector search para facilitar a busca e recuperação de informações relevantes."
+description: "Repositório com busca baseada em vector search. Manterá somente artigos sobre IA."
 image: digitalrepo.png
 ---
 
-[Descrição detalhada do projeto vai aqui.]
+Este repositório é dedicado a artigos sobre Inteligência Artificial (IA) e utiliza técnicas de vector search para facilitar a busca e recuperação de informações relevantes. Ele foi construído a partir da plataforma DSpace (8), que é uma solução de código aberto para gerenciamento de repositórios digitais.
+Projeto hospedado em nuvem Google Cloud, garantindo escalabilidade e alta disponibilidade. O repositório é atualizado regularmente com novos artigos e pesquisas na área de IA, tornando-se uma fonte valiosa para pesquisadores, estudantes e profissionais interessados no campo.
+AINDA NÃO ESTÁ DISPONÍVEL PARA O PÚBLICO. FIQUE ATENTO PARA FUTURAS ATUALIZAÇÕES!
+
+Me procure se quiser saber mais sobre o projeto ou se tiver interesse em colaborar!

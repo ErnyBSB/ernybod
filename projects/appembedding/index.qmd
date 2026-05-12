@@ -1,0 +1,11 @@
+---
+title: "App Didático de Embeddings para Busca"
+date: "2026-05-11"
+categories: [embeddings, vector search]
+description: "Desenvolvimento de App para apoio didático técnicas de embedding."
+image: appembed.png
+---
+
+O App está sendo desenvolvido com o objetivo de dar apoio didático, inclusive para outro projeto nosso de livro, mas também para qualquer pessoa interessada em melhor compreendeer como usar e aplicar técnicas de embeddings. Possíveis aplicações são a recuperação da informação.
+O App está sendo hospedado no Google Cloud, mas ainda não está disponível publicamente. Ele é construído usando tecnologias web modernas, como React para a interface do usuário e API python para o backend, com integração de bibliotecas de machine learning para processar e gerar embeddings.
+Entre em contato caso queira saber mais ou colaborar com o projeto!
