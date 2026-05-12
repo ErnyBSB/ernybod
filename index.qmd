@@ -12,9 +12,6 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:bod.ernesto@gmail.com
-    - icon: file-earmark-text
-      text: Currículo
-      href: cv.qmd
 ---
 
 Olá! Sou **Ernesto Bodê (Erny Bo-D)**.
