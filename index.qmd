@@ -25,4 +25,4 @@ Particularmente, estou pesquisando novas técnicas de Recuperação da Informaç
 com modelos de IA. Repositórios de Documentos. E automatização de processos em
 Bibliotecas e Arquivos.
 
-Neste site você encontra meus [projetos](projects.qmd), [publicações no blog](blog.qmd) e meu [currículo](cv.qmd).
+Neste site você encontra meus [projetos](projects.qmd), [publicações no blog](blog.qmd) e meu [currículo](https://ernybsb.github.io/ernybod/cv.html).

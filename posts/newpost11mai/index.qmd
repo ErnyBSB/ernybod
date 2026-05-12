@@ -1,10 +1,8 @@
 ---
-title: "Bem-vindo ao Blog!"
+title: "Novo artigo!"
 date: "2026-05-11"
 categories: [artigos]
-description: "Novo Artigo."
+description: "Novo artigo sobre clustering."
 ---
 
-Nesse espaço, compartilharei minhas experiências, aprendizados e insights sobre diversos temas relacionados à tecnologia, ciência de dados, programação e muito mais. Espero que este blog seja um lugar onde possamos aprender juntos, trocar ideias e crescer como profissionais e entusiastas da área.
-
-Fique à vontade para explorar os posts, deixar comentários e compartilhar suas próprias experiências. Estou ansioso para embarcar nessa jornada de aprendizado e crescimento com vocês!
+Publicamos um artigo sobre automatização do processo de catalogação de livros em Bibliotecas. Acesse o artigo completo [aqui](https://medium.com/@bod.ernesto/automating-bibliographic-records-with-ai-a-new-chapter-for-library-cataloging-387ee865d6bb).
