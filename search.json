@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Bem-vindo ao Blog!\n\n\n\nartigos\n\n\n\nNovo Artigo.\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nBem-vindo ao Blog!\n\n\n\ngeral\n\n\n\nApresentação do Blog.\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Novo artigo!\n\n\n\nartigos\n\n\n\nNovo artigo sobre clustering.\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nBem-vindo ao Blog!\n\n\n\ngeral\n\n\n\nApresentação do Blog.\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/projeto-exemplo/index.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "posts/newpost11mai/index.html",
     "href": "posts/newpost11mai/index.html",
-    "title": "Bem-vindo ao Blog!",
+    "title": "Novo artigo!",
     "section": "",
-    "text": "Nesse espaço, compartilharei minhas experiências, aprendizados e insights sobre diversos temas relacionados à tecnologia, ciência de dados, programação e muito mais. Espero que este blog seja um lugar onde possamos aprender juntos, trocar ideias e crescer como profissionais e entusiastas da área.\nFique à vontade para explorar os posts, deixar comentários e compartilhar suas próprias experiências. Estou ansioso para embarcar nessa jornada de aprendizado e crescimento com vocês!"
+    "text": "Publicamos um artigo sobre automatização do processo de catalogação de livros em Bibliotecas. Acesse o artigo completo aqui."
   },
   {
     "objectID": "about.html",
