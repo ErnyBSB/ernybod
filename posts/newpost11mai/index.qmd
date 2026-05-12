@@ -1,8 +1,8 @@
 ---
-title: "Novo artigo!"
+title: "Projetos divulgados"
 date: "2026-05-11"
-categories: [artigos]
-description: "Novo artigo sobre clustering."
+categories: [projetos]
+description: "Seção Coisas em Construção atualizada."
 ---
 
-Publicamos um artigo sobre automatização do processo de catalogação de livros em Bibliotecas. Acesse o artigo completo [aqui](https://medium.com/@bod.ernesto/automating-bibliographic-records-with-ai-a-new-chapter-for-library-cataloging-387ee865d6bb).
+A seção do site "Coisas em Construção" foi atualizada para incluir os projetos mais recentes que estão sendo divulgados. Fique atento para novidades e detalhes sobre cada um desses projetos emocionantes!
