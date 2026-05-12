@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Coisas em construção…",
     "section": "",
-    "text": "Repositório de Artigos sobre IA com Vector Search\n\n\n\nvector search\n\n\n\nRepositório com busca baseada em vector search. Contém somente artigos sobre IA. Repositório construído a partir da da plataforma DSpace (8), utilizando técnicas de vector…\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Repositório de Artigos sobre IA com Vector Search\n\n\n\nvector search\n\n\n\nRepositório com busca baseada em vector search. Manterá somente artigos sobre IA.\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nApp Didático de Embeddings para Busca\n\n\n\nembeddings\n\nvector search\n\n\n\nDesenvolvimento de App para apoio didático técnicas de embedding.\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html",
@@ -32,7 +32,14 @@
     "href": "projects/repository/index.html",
     "title": "Repositório de Artigos sobre IA com Vector Search",
     "section": "",
-    "text": "[Descrição detalhada do projeto vai aqui.]"
+    "text": "Este repositório é dedicado a artigos sobre Inteligência Artificial (IA) e utiliza técnicas de vector search para facilitar a busca e recuperação de informações relevantes. Ele foi construído a partir da plataforma DSpace (8), que é uma solução de código aberto para gerenciamento de repositórios digitais. Projeto hospedado em nuvem Google Cloud, garantindo escalabilidade e alta disponibilidade. O repositório é atualizado regularmente com novos artigos e pesquisas na área de IA, tornando-se uma fonte valiosa para pesquisadores, estudantes e profissionais interessados no campo. AINDA NÃO ESTÁ DISPONÍVEL PARA O PÚBLICO. FIQUE ATENTO PARA FUTURAS ATUALIZAÇÕES!\nMe procure se quiser saber mais sobre o projeto ou se tiver interesse em colaborar!"
+  },
+  {
+    "objectID": "projects/appembedding/index.html",
+    "href": "projects/appembedding/index.html",
+    "title": "App Didático de Embeddings para Busca",
+    "section": "",
+    "text": "O App está sendo desenvolvido com o objetivo de dar apoio didático, inclusive para outro projeto nosso de livro, mas também para qualquer pessoa interessada em melhor compreendeer como usar e aplicar técnicas de embeddings. Possíveis aplicações são a recuperação da informação. O App está sendo hospedado no Google Cloud, mas ainda não está disponível publicamente. Ele é construído usando tecnologias web modernas, como React para a interface do usuário e API python para o backend, com integração de bibliotecas de machine learning para processar e gerar embeddings. Entre em contato caso queira saber mais ou colaborar com o projeto!"
   },
   {
     "objectID": "cv.html",
