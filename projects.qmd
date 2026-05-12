@@ -1,5 +1,5 @@
 ---
-title: "Projetos"
+title: "Coisas em construção..."
 listing:
   contents: projects
   sort: "date desc"

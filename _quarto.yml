@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Ernesto Bod"
-  description: "Site pessoal de Ernesto Bod — projetos, publicações e blog."
+  description: "Site profissional — projetos, publicações e blog."
   favicon: assets/favicon.png
   repo-url: https://github.com/ErnyBSB/ernybod
   repo-actions: [edit, issue]
@@ -18,9 +18,9 @@ website:
       - href: about.qmd
         text: Sobre
       - href: blog.qmd
-        text: Blog
+        text: Notas & Reflexões
       - href: projects.qmd
-        text: Projetos
+        text: Coisas em construção
     right:
       - href: cv.qmd
         text: Currículo
