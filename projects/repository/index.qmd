@@ -1,0 +1,9 @@
+---
+title: "Repositório de Artigos sobre IA com Vector Search"
+date: "2026-05-11"
+categories: [vector search]
+description: "Repositório com busca baseada em vector search. Contém somente artigos sobre IA. Repositório construído a partir da da plataforma DSpace (8), utilizando técnicas de vector search para facilitar a busca e recuperação de informações relevantes."
+image: thumbnail.png
+---
+
+[Descrição detalhada do projeto vai aqui.]
